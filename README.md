@@ -1,74 +1,73 @@
-# 🛒 E-Commerce Web Application Testing
+# 📱 Mobile Application Testing – Food Delivery App
 
 ## 📌 Project Overview
-This project focuses on **manual testing of an E-commerce web application** to ensure high-quality performance, functionality, and user experience. The testing process covers all major modules including authentication, product search, cart, and checkout.
+This project involves **manual testing of a food delivery mobile application** to ensure seamless functionality and a smooth user experience. The focus was on testing user flows such as login, ordering, and payment.
 
 ---
 
 ## 🎯 Objectives
-- Validate core functionalities of the application  
-- Identify and report bugs with proper documentation  
-- Ensure smooth user experience across critical workflows  
-- Improve software quality through structured testing  
+- Ensure app functionality and usability  
+- Detect and report defects effectively  
+- Validate end-to-end user journeys  
+- Enhance app performance and reliability  
 
 ---
 
 ## 🧪 Testing Scope
-The following modules were tested:
+Modules tested include:
 
-- 🔐 User Registration & Login  
-- 🔍 Product Search & Filtering  
-- 🛒 Cart Management  
-- 💳 Checkout & Payment  
-- 📦 Order Management  
+- 👤 User Signup & Login  
+- 🔍 Restaurant Search  
+- 🍔 Menu & Cart Management  
+- 💳 Order Placement & Payment  
+- 📦 Order Tracking  
 
 ---
 
 ## 🧾 Test Artifacts Included
 - ✅ **Test_Cases.xlsx**  
-  - 14+ detailed test cases  
-  - Includes: Preconditions, Steps, Expected Result, Actual Result, Status, Priority  
+  - 12+ detailed test cases  
+  - Includes: Steps, Expected vs Actual, Status, Priority  
 
 - 🐞 **Bug_Report.xlsx**  
-  - Realistic bug reports  
-  - Includes: Severity, Priority, Steps to Reproduce, Status  
+  - Structured defect tracking  
+  - Includes: Severity, Priority, Repro Steps  
 
 ---
 
 ## 🧰 Tools & Technologies
 - Manual Testing  
 - Microsoft Excel  
-- Jira (Conceptual Knowledge)  
+- Basic Jira Knowledge  
 
 ---
 
 ## 🔄 Testing Types Performed
 - Functional Testing  
-- Regression Testing  
-- UI Testing  
-- User Acceptance Testing (UAT)  
+- Usability Testing  
+- UAT Testing  
 
 ---
 
 ## 🐞 Sample Bug Highlights
-- Login failure with valid credentials  
-- Cart item quantity not updating  
-- Coupon code not applying correctly  
+- App crash during checkout  
+- Search functionality not returning results  
+- Logout button not working  
 
 ---
 
 ## 📊 Outcome
-- Successfully executed all test cases  
-- Identified critical and medium-level defects  
-- Improved overall application reliability and performance  
+- Executed all test scenarios successfully  
+- Identified critical bugs affecting user experience  
+- Improved application stability  
 
 ---
 
 ## 🚀 Key Learnings
-- Test case design and execution  
-- Bug reporting with severity & priority  
-- Understanding of SDLC & STLC  
-- Real-world QA workflow experience  
+- Mobile app testing strategies  
+- Bug lifecycle and reporting  
+- User-centric testing approach  
+- Agile testing concepts  
 
 ---
 
