@@ -1,44 +1,51 @@
-# 📱 Mobile Application Testing – Food Delivery App
+# 📱 Mobile App QA Testing – Food Delivery Application
 
 ## 📌 Project Overview
-This project involves **manual testing of a food delivery mobile application** to ensure seamless functionality and a smooth user experience. The focus was on testing user flows such as login, ordering, and payment.
+This project focuses on **manual testing of a food delivery mobile application**, ensuring smooth functionality and a user-friendly experience.
 
 ---
 
-## 🎯 Objectives
-- Ensure app functionality and usability  
-- Detect and report defects effectively  
-- Validate end-to-end user journeys  
-- Enhance app performance and reliability  
+## 🧪 Modules Covered
+- User Signup & Login  
+- Restaurant Search  
+- Cart Management  
+- Order Placement  
+- Payment  
+- Order Tracking  
+- Logout  
 
 ---
 
-## 🧪 Testing Scope
-Modules tested include:
+## 🧾 Test Cases Details
+- Total Test Cases: **12**
+- Each test case includes:
+  - Module  
+  - Preconditions  
+  - Steps  
+  - Expected Result  
+  - Actual Result  
+  - Status (Pass)  
+  - Priority  
 
-- 👤 User Signup & Login  
-- 🔍 Restaurant Search  
-- 🍔 Menu & Cart Management  
-- 💳 Order Placement & Payment  
-- 📦 Order Tracking  
-
----
-
-## 🧾 Test Artifacts Included
-- ✅ **Test_Cases.xlsx**  
-  - 12+ detailed test cases  
-  - Includes: Steps, Expected vs Actual, Status, Priority  
-
-- 🐞 **Bug_Report.xlsx**  
-  - Structured defect tracking  
-  - Includes: Severity, Priority, Repro Steps  
+### ✔ Test Execution Summary
+- Passed: 12  
+- Failed: 0  
 
 ---
 
-## 🧰 Tools & Technologies
-- Manual Testing  
-- Microsoft Excel  
-- Basic Jira Knowledge  
+## 🐞 Bug Report Details
+- Total Bugs Identified: **3**
+
+### Bug Summary:
+1. App crash during checkout (Critical Severity)  
+2. Search not returning results (High Severity)  
+3. Logout button not working (Medium Severity)  
+
+Each bug includes:
+- Reproducible steps  
+- Expected vs Actual result  
+- Severity & Priority  
+- Status (Open)  
 
 ---
 
@@ -49,28 +56,26 @@ Modules tested include:
 
 ---
 
-## 🐞 Sample Bug Highlights
-- App crash during checkout  
-- Search functionality not returning results  
-- Logout button not working  
+## 🧰 Tools Used
+- Microsoft Excel  
+- Manual Testing  
 
 ---
 
 ## 📊 Outcome
-- Executed all test scenarios successfully  
-- Identified critical bugs affecting user experience  
-- Improved application stability  
+- Executed all test cases successfully  
+- Identified major bugs affecting user experience  
+- Improved app stability through defect identification  
 
 ---
 
 ## 🚀 Key Learnings
-- Mobile app testing strategies  
-- Bug lifecycle and reporting  
-- User-centric testing approach  
-- Agile testing concepts  
+- Mobile testing workflow  
+- Bug tracking and reporting  
+- End-to-end user journey testing  
 
 ---
 
-## 📌 Author
-**Dishu Daksh**  
-Aspiring Quality Analyst | B.Tech CSE  
+## 👨‍💻 Author
+Dishu Daksh  
+Aspiring Quality Analyst  
